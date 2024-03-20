@@ -1,0 +1,15 @@
+{
+  "rtkData" : [
+    {
+      "longitude" : "121.545473752",
+      "latitude" : "31.227105927",
+      "createTime" : 1709732812.772279,
+      "horizontalAccuracy" : "0.014",
+      "verticalAccuracy" : "0.011",
+      "fixStatus" : 0,
+      "height" : 5.7690000000000001,
+      "diffStatus" : "固定解",
+      "timeStamp" : 1709732812.7724252
+    }
+  ]
+}

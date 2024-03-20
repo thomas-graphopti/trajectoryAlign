@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: geoToolbox
+Version: 0.1.0
+Summary: A simple module for geo coordinate conversion
+Author: thomas hu
+Author-email: thomas@graphopti.com
+Keywords: geo coordinate conversion
